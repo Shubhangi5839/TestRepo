@@ -1,5 +1,5 @@
-Change1 – Change1 in File1
+Change1 – change1 in file1
 
-Change2 – Change2 in File1
+Change2 – change2 in file1
 
-Change3 - Change3 in File1
+Change3 - change3 in file1
